@@ -1,1 +1,1 @@
-# Hackathon
+Welcome to the Virtual Zoo project! This application aims to provide users with an immersive experience of visiting a zoo from the comfort of their own home. Below are instructions on how to use and contribute to the project.
